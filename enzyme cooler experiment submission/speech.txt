@@ -1,0 +1,25 @@
+
+
+https://www.naturalreaders.com/online/
+
+
+https://www.i2sl.org/documents/toolkit/bulletin_rtss_508.pdf
+lightenberg burn
+
+
+https://projectpages.voicebooking.com/voice-over-generator/64742b2c8b118-cooler-part-1/edit
+
+Michael .95 speed
+
+ ​For any research related to molecular biology, health science requiring genetic engineering, fighting climate change or pollution, a well equipped biology lab is often required .
+
+That equipment that is not easily obtainable or affordable, makes research difficult and sometimes impossible. The ultra-low-temperature (ULT) freezer is one of the most expensive pieces of equipment in a bio lab. It is a giant fridge that weighs one to two tonnes, requires a forklift to move, consumes about 1 kilowatt and can cost around 15 to 35 thousand $.
+
+This type of freezer is used to store biologicals such as enzymes and bacterial cells. We have discovered that some researchers are trying a cheaper alternative using a regular fridge and storing the enzymes or bacterial cells in a device called an enzyme cooler.
+
+An industry enzyme cooler is around $300. One scientist we know has been using this method to store enzymes since 2007, and they are still perfectly working. After looking at enzyme coolers, we have discovered that they are not overly complicated, so we expect that we can design, build and test one.
+
+ The goal of this project is to offer a viable solution in the 20-30$ range without sacrificing performance. By offering a cheaper alternative, we hope to make it possible for all bio labs to afford research and education, enabling global access to essential scientific research. Therefore, this is an excellent example of low-cost technology for open science, and it will allow people to do science or benefit from research without the burden of acquiring the most expensive bio lab equipment. Let's work together to ensure that all bio labs can afford research and education by giving them a solution for cell and enzyme use and storage.  
+ 
+ TODO car insurance
+ stem education challenge https://experiment.com/grants/STEM

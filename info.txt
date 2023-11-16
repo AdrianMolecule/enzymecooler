@@ -1,0 +1,93 @@
+https://huntingwaterfalls.com/is-the-liquid-in-ice-packs-toxic/
+
+
+from scott:
+
+
+As for the enzyme cooler, they basically are designed to hold 2mL screw cap microcentrifuge tubes. The diameter of one of the holes in my cooler is just shy of 1/2” and the depth is about 1.5”. How many holes is up to you. The one I showed you had 12 holes (3x4) and for starters that is probably all you need. You might be able to use a yogurt or margarine container as the base or get a kitchen container from Canadian Tire or Ikea. Here are some examples of commercial coolers:
+https://www.thomassci.com/scientific-supplies/Enzyme-Cooler
+https://us.vwr.com/store/category/benchtop-coolers/3617338
+
+
+VWR® CryoCooler Freeze Controller
+Catalog Number: (414004-284)
+Supplier: VWR International
+Description: When filled with isopropyl alcohol and placed in mechanical freezer, this polycarbonate freeze controller provides the -1°C per minute cooling rate re...
+
+https://ca.vwr.com/store/product/en/4600883/scienceware-cryo-safetm-cold-box-1-5-ml-mct-tubes-bel-art ". The space surrounding the tubes is filled with a sealed-in material that maintains the low temperature required for safe storage and transport. When the container is taken out of a –20°C freezer, it will maintain a –15°C temperature for 1.5 hours and will remain below 0°C for four hours."
+
+how long does the defrost cycle lasts?  A: The heating coils turn on and remain on for about 20 to 40 minutes
+
+
+80% MethOH, 20% EtOH, Wax, you add 2/3 of the final volume of MetOH/EtOH solution into shredded  wax
+7:24
+I though I have mentioned before!.. my bad if not
+7:24
+we used to do that in my chemical lessons for keeping extract from secondary metabolites from the rota-vapor extraction
+7:26
+if you dont have MetOH you can use isoprop. alcohol (rubbibg alcohol) and works the same
+7:28
+solid alcohol is also the same idea
+7:31
+Thermo actually sell something like that that you only pour IPA (IsoPropylic Alcochol or rubbing alcohol) into that and that's it... hold on,
+7:32
+https://www.thermofisher.com/order/catalog/product/cn/en/5100-0001
+thermofisher.comthermofisher.com
+Mr. Frosty™ Freezing Container
+Reduce the temperature of your samples by the prescribed 1 degree of cooling per minute using this quick-freeze container that holds 12-18 tubes.
+7:32
+I really never mentioned it?... how?... any way... it's an old trick
+7:35
+https://www.youtube.com/watch?v=44mlLL3D4XQ
+YouTubeYouTube | Thermo Scientific
+Thermo Scientific Nalgene Mr. Frosty Freezing Container 
+
+it works for either slowly cooling down cells or for keeping samples/enzymes/ thermolabile material etc...
+
+Adrian Molecule  8:50 PM
+Ha ha, yeap,  so the only challenge is getting those wells. And no issue with the IPA procurement
+8:51
+does it spill if you turn it on an angle?
+
+Mr. Frosty Freezing Container
+https://youtu.be/44mlLL3D4XQ?t=51   	Polycarbonate
+Holds 12 to 18 tubes and has profile height of 86 or 151mm (3-7/16 to 5-5/16 in.), which saves precious freezer space during the cooling process
+Screw top lid secures samples inside in the event of accidental container tipping
+Eliminates unreliable, improvised foam container devices
+Easy to use—requires only 100% isopropyl alcohol and a mechanical freezer
+No contact with the alcohol: no wicking, no label removal and no compromise of tube hand printing
+Ordering Information:
+
+Containers have 4.75 in. diameter (120mm) closure
+
+Requires:
+https://www.thermofisher.com/order/catalog/product/5100-0001
+Isopropyl alcohol and a mechanical freezer
+Capacity (Metric)	2 mL
+Color	Clear, Blue Lid
+Holds	18 (1.0 to 2.0mL Tubes)
+Material	Polycarbonate
+Temperature Range	-1°C
+Type	Freezing Container
+Height (Metric)	86 mm
+Diameter (Metric)	117 mm
+Unit Size	Each
+
+My soup container is76 in diam and height is 86
+
+
+https://www.coleparmer.ca/i/cole-parmer-screw-top-microcentrifuge-tube-2-0-ml-skirted-1000-pk/0624552?PubID=UZ&persist=true&ip=no&gclid=CjwKCAjw_tWRBhAwEiwALxFPoZbT99KAT_i5H-TbvTD8lFWJ1aDouw4FoxJgKfQhRxA4ntE6S3gCkBoC5owQAvD_BwE
+Max RCF x g30000AutoclavableYesTube Capacity (mL)2Tube MaterialPolypropyleneTube ColorNaturalTube Bottom ShapeSkirtedTube Length (mm)47Tube Outside Diameter (OD) (mm)11Cap IncludedNoCap StyleScrew Cap - sold separatelyDescriptionScrew-Top Microcentrifuge Tube; 2.0 mL, Skirted; 1000/Pk
+
+SCOTT:   The diameter of one of the holes in my cooler is just shy of 1/2” and the depth is about 1.5”. so <12.5 and depth about 3.8 cm. Me- I believe this is https://www.coleparmer.ca/i/cole-parmer-screw-top-microcentrifuge-tube-2-0-ml-skirted-1000-pk/0624552?PubID=UZ&persist=true&ip=no&gclid=CjwKCAjw_tWRBhAwEiwALxFPoZbT99KAT_i5H-TbvTD8lFWJ1aDouw4FoxJgKfQhRxA4ntE6S3gCkBoC5owQAvD_BwE
+my list DNA gel Stain  DNA ladders
+loading die
+easy taq
+XBal - old -  was stored in defective fridge
+RT 
+
+
+what is NE Freezer Program? I see there is one in Vancouver etc
+CONCLUSION : I should probably use 12 mm diam and 38 mm lenght under the rim and 47 mm in total
+
+David outer diameter 12.4 polyPropilene submerged depth for tube 35

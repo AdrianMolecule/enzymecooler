@@ -1,0 +1,79 @@
+Can we find a very low cost solution to preserve temperature sensitive reagents during bio-research ?
+
+About This Project
+Temperature sensitive biological like enzymes are stored in ultra low temperature refrigerators that costs more than 15k. That is one of the highest cost barriers for setting up a biology research lab. We found from a researcher that is using a 250$ device called enzyme cooler and a usual refrigerator for storing enzymes with good results. We expect to design, build and test an affordable alternative for about 30$ without sacrificing performance.
+
+Ask the Scientists
+JOIN THE DISCUSSION
+What is the context of this research?
+Many biology, health, climate and pollution research efforts require well equipped biology labs to perform experiments like genetic engineering.
+
+It's difficult to equip a molecular biology lab because of high costs, particularly expenses associated with cold storage that requires ultra low temp freezers (ULT).
+
+The usage of ULT freezers result in high expenses that include purchase cost >15k, transport, electrical consumption (700-1000$/month) , space and HVAC requirements and significant environmental impact (Ultra-Low-Temperature-Freezers).
+
+Used ULT freezers are not necessarily inexpensive alternative because regulations require emptying the coolant agents for transportation and refills need to be performed by specialists.
+
+What is the significance of this project?
+For many bio research teams it would be beneficial to have a low cost alternate solution to deal with temperature sensitive biologics.
+
+We can eliminate the ULT freezer requirements using a low cost alternative that will work without loss of performance for the majority of situations.
+
+This will make scientific research more affordable by reducing the cost barrier. In some cases, for unprivileged or marginalized communities it can even make it possible where purchasing, housing and maintaining a ULT is not possible.
+
+Testing the solution with multiple enzymes and cell storage protocols will help understand the capabilities of storage using this low cost build. It will answer questions about best protocols and lifetime evolution. We found no other performant OS enzyme cooler.
+
+What are the goals of the project?
+Make biology research affordable be removing the largest device cost of setting up a lab. That is done by creating an open source enzyme cooler that matches the commercial product performance. A challenge is to create an airtight agent chamber so the refrigeration agent will not spill or leak, is physically durable, chemically resistant to the the refrigeration agent and be able to be molded in the desired shape. Normal 3D printers cannot to meet these requirements so we'll use a molding approach. Another challenge is providing a solid thermal contact between the tubes containing the biological and the refrigeration source. For this challenge metal will be ideal. Thirdly, we need a insulator exterior box that can be closed without heat exchange.
+
+Budget
+test enzymes, bacterial cells, other regents, consumable labware$500
+multi-temperature data logger$50
+epoxy for molds$120
+molding device$900
+insulation and insulation spray device$70
+transportation and shipping$200
+3d print filament$50
+incidentals$50
+The project will use existing 3D printer and CNC machine and a number of other materials and components however injection molding, extra materials and biologicals are required. We have already tried vacuum forming which is inappropriate to produce the necessary deep profiles.
+
+Project Timeline
+June 1 Start design and create GitHub project.
+
+July 1 Make molds for components. Identify refrigeration agent and create a data logger
+
+August 1 Make the device and re-iterate design-make-test to find optimal solution. Create biologics for testing. Start mechanical and functional testing
+
+September 1 Document build and testing protocols on GitHub. Publish test results. Send devices to independent labs for field testing, manuscript preparation
+
+Continue testing, reporting and improving docs
+
+AUG 01, 2023
+start testing
+SEP 01, 2023
+send devices to external labs for independent testing
+OCT 01, 2023
+publish results
+Meet the Team
+Adrian Filips
+Adrian Filips
+Independent Researcher/Analyst
+Affiliates
+Ottawa Bio Science, Environment and Climate Change Canada
+VIEW PROFILE
+Team Bio
+A number of external contributors will be consulted during this project when necessary.
+
+Geoffrey Dobbs (gumdobbs@gmail.com) is a mechanical engineer with an extensive career in the field. He has designed and made parts for airplanes, and also designed and made parts for molded fiberglass boats company that he owned.
+
+Adrian Filips
+Adrian is passionate and committed to multidisciplinary Open Source research projects that can make a difference in today's world. He believes in open, inclusive citizen science because the currently allocated resources are not sufficient to tackle current challenges. Adrian is a firm believer in the power of science to solve world problems.
+
+He has a multidisciplinary background with experience and high education in engineering, computers and molecular biology.
+He can model and create Fusion360 add-ins, operate a CNC, a laser cutter, design and populate a dedicated PCB, code a microcontroller or the cloud, pour a gel, program an Opentron, design a primer, in-silico design, align sequences, create derivative plasmids stare at DNA sequences for hours to name some of his skills.
+As part of his passion and convictions he designed, built, tested and used a significant number of low cost, open source, essential molecular biology devices.
+
+He participated in research with the Children Medical Research Institute in Sydney. One of the projects where he designed/implemented a new procedure for producing new DNA sequences for transduction drug delivery is published at https://doi.org/10.1016/j.omtm.2018.10.016
+
+He started the Ottawa Bio Science community bio and participated and presented participated in several Biosummits organized by the Canadian Health Department, MIT and JOGL.
+Currently he works for Environment and Climate Change Canada.

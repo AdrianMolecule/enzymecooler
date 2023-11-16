@@ -1,0 +1,6 @@
+
+Together with several other molecular biology enthusiasts I applied for a project funding through an organization called Experiment.com. The organization financially backs research projects provided about 10% funding comes from external backers. That is to demonstrate that the community is interested in that. The project is basically making a device capable to preserve biological substances like enzymes, antibodies etc using a normal fridge. The idea is to enable enzyme and some other biologicals storage for labs that cannot afford a -80 fridge or a non frost free fridge. The result should be in the 30$ range.
+
+Check it out if you are interested.   enzyme cooler
+https://experiment.com/projects/can-we-find-a-low-cost-solution-to-store-temperature-sensitive-enzymes-in-research
+

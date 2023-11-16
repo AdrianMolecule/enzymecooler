@@ -1,0 +1,93 @@
+{
+  "uuid": "a472d0a3386d158387fb0adfb51bcf9d",
+  "path": "Offline/Temperature logger",
+  "name": "Temperature logger",
+  "content": "",
+  "created_at": "2023-11-10 19:51:03",
+  "updated_at": "2023-11-10 20:13:45",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "a95f21d551c4a403171e543293384fd9",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "97dccb6aa4f26075af730b955989eacd",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ac72a924b0434f4eaa900dc74e374ec4": 1,
+        "b36c58d96f4c40ad967b6f27368ea3f1": 1,
+        "70a3c80104944517916a1ca1151cc29d": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "Raspberry Pi 3 B+",
+          1,
+          "RASPBERRY_PI_B+",
+          "PCB1",
+          {
+            "description": "Raspberry Pi B+",
+            "sourceId": "0c6oiAS9r",
+            "timeStamp": "1472630226",
+            "spiceSymbolName": "Raspberry Pi 3 B+",
+            "Manufacturer Part": "",
+            "puuid": "",
+            "uuid": "ac72a924b0434f4eaa900dc74e374ec4"
+          }
+        ],
+        [
+          "4.7kΩ",
+          1,
+          "RES-TH_BD2.4-L6.3-P10.30-D0.6",
+          "U1",
+          {
+            "Contributor": "lcsc",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1740366",
+            "Manufacturer": "YAGEO(国巨)",
+            "Manufacturer Part": "MFP-25BRD52-4K7",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C1740366&%26type=1&ref=editor",
+            "spiceSymbolName": "MFP-25BRD52-4K7",
+            "puuid": "2915f1f0a54941d7b912decfe617b47f",
+            "uuid": "70a3c80104944517916a1ca1151cc29d"
+          }
+        ],
+        [
+          "DS18B20",
+          1,
+          "DS18B20",
+          "U3",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Supplier Part": "",
+            "Supplier": "EasyEDA",
+            "link": "",
+            "Contributor": "TomB70",
+            "spiceSymbolName": "DS18B20",
+            "puuid": "763637ad37524cd490b12de3a32d2f1c",
+            "uuid": "b36c58d96f4c40ad967b6f27368ea3f1"
+          }
+        ]
+      ],
+      "updateTime": 1699665225,
+      "createTime": 1699663864,
+      "histories": [],
+      "created_at": "2023-11-10 19:51:04",
+      "updated_at": "2023-11-10 20:13:45"
+    }
+  ],
+  "sort": [],
+  "title": "Temperature logger",
+  "foldername": "Temperature logger",
+  "schfilename": "Temperature logger.json",
+  "schfilemtime": 1699665225232
+}
