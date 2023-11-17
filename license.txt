@@ -1,3 +1,5 @@
+There are there licenses in total each covering different areas of this project
+
 Software
 
 MIT License
