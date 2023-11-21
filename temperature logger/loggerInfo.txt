@@ -1,7 +1,9 @@
 temp logger
 download pi imager and run in WIndows with a <256 gb memory stick https://www.raspberrypi.com/software/
 
-I used this: https://www.circuitbasics.com/raspberry-pi-ds18b20-temperature-sensor-tutorial/
-https://cdn.sparkfun.com/datasheets/Sensors/Temp/DS18B20.pdf for details on sensor-tutorial/
+I used this: https://learn.adafruit.com/adafruits-raspberry-pi-lesson-11-ds18b20-temperature-sensing?view=all
+or https://learn.adafruit.com/adafruits-raspberry-pi-lesson-11-ds18b20-temperature-sensing?view=all
 
-https://wokwi.com/projects/381046663972674561
+Not this: https://wokwi.com/projects/381046663972674561
+
+maybe this: https://projects.raspberrypi.org/en/projects/temperature-log/1
