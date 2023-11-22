@@ -52,7 +52,8 @@ xVals, yVals=readTempAndTime()
 
 # plot
 plt.plot([],[])
-plt.scatter(xVals,yVals)
+plt.plot([1,2,3,5,6], [1, 2, 3, 4, 6])
+#plt.plot(xVals,yVals)
 
 # beautify the x-labels
 plt.gcf().autofmt_xdate()

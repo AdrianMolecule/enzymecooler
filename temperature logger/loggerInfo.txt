@@ -1,9 +1,25 @@
 temp logger
-download pi imager and run in WIndows with a <256 gb memory stick https://www.raspberrypi.com/software/
 
-I used this: https://learn.adafruit.com/adafruits-raspberry-pi-lesson-11-ds18b20-temperature-sensing?view=all
-or https://learn.adafruit.com/adafruits-raspberry-pi-lesson-11-ds18b20-temperature-sensing?view=all
+Here's a good explaination about how defrosting cycle works:
+	https://mocreo.com/2023/06/29/how-can-you-verify-if-the-freezers-automatic-defrost-feature-is-working-properly/
+	
+We need to measure the temperature for several days to first get a baseline and then to caracterize the enzyme cooler performance
 
-Not this: https://wokwi.com/projects/381046663972674561
 
-maybe this: https://projects.raspberrypi.org/en/projects/temperature-log/1
+Step 1 - load PI with the software
+	download Pi imager and run in Windows with a <256 gb memory stick https://www.raspberrypi.com/software/
+
+	I used this as a starting point: https://learn.adafruit.com/adafruits-raspberry-pi-lesson-11-ds18b20-temperature-sensing?view=all
+	or https://learn.adafruit.com/adafruits-raspberry-pi-lesson-11-ds18b20-temperature-sensing?view=all
+
+	Not this: https://wokwi.com/projects/381046663972674561
+
+	also this: https://projects.raspberrypi.org/en/projects/temperature-log/1
+Step 2 - assemble the hardware
+	Connect the PI and temp sensor according to the schematic in the easyEDA project directory. Also present as a .pdf export in the \temperature logger directory
+Step 3 collect data
+	Run the data collection script from the software directory for several days.
+	You can work on PI directly or ssh a@raspberrypi.local from Putty/Power Shell and enter the password. Dfault is raspberry but it's better to change it to N...
+
+Step 4 graph the temperature
+	After collecting enough days in the logfile.txt run the graphing script in the software directory
