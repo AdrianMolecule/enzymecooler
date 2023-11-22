@@ -1,14 +1,17 @@
 import os
 import glob
 import time
+import random
 from datetime import datetime
 import re
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
  
 
-device_file = "." + '/temps.txt'
+device_file = ".." + '/results/runLog.txt'
+#device_file = ".." + '/results/runLogShort.txt'
 date_format = '%d %H:%M:%S'
+DEBUG=False
  
 def read_temp_raw():
     f = open(device_file, 'r')
@@ -23,19 +26,19 @@ def readTempAndTime():
     xVals=[]
     yVals=[]
     for l in lines:
-        print ("line",l)
-        tempPos = l.find('temperature=')
-        print ("tempPos",tempPos)
-        timePos = l.find('at ')
-        print ("timePos",timePos)
+        if DEBUG: print ("line:",l)
+        tempPos = l.find('Temperature=')
+        if DEBUG: print ("tempPos",tempPos)
+        timePos = l.find('\tat')
+        if DEBUG: print ("timePos",timePos)
         if tempPos != -1 and  timePos!=-1:
-            temp=re.findall('temperature=(.+?) at', l)
-            print ("temp",temp)
-            ti=re.findall('at (.*)', l)
+            temp=re.findall('Temperature=(.+?)\tat', l)
+            if DEBUG: print ("temp",temp)
+            ti=re.findall('at \t(.*)\t', l)
             tim= "".join(str(element) for element in ti)
-            #print ("tim",tim)
+            if DEBUG: print ("tim",tim)
             date_obj = datetime.strptime(tim, date_format)
-            print ("time",date_obj)
+            if DEBUG: print ("time",date_obj)
             yVals.append(temp)
             xVals.append(date_obj)
     return xVals, yVals
@@ -58,3 +61,18 @@ plt.gca().xaxis.set_major_formatter(myFmt)
 
 plt.show()
 plt.close()
+
+# x = [datetime.datetime.now() + datetime.timedelta(minutes=i) for i in range(12)]
+# y = [i+random.gauss(0,1) for i,_ in enumerate(x)]
+
+# # plot
+# plt.plot([],[])
+# plt.scatter(x,y)
+
+# # beautify the x-labels
+# plt.gcf().autofmt_xdate()
+# myFmt = mdates.DateFormatter('%H:%M')
+# plt.gca().xaxis.set_major_formatter(myFmt)
+
+# plt.show()
+# plt.close()
