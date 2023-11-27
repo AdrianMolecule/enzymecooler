@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
  
 
-device_file = ".." + '/results/runLog.txt'
+device_file = ".." + '/runLog.txt'
 #device_file = ".." + '/results/runLogShort.txt'
 date_format = '%d %H:%M:%S'
 DEBUG=False
