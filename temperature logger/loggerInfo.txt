@@ -20,6 +20,6 @@ Step 2 - assemble the hardware
 Step 3 collect data
 	Run the data collection script from the software directory for several days.
 	You can work on PI directly or ssh a@raspberrypi.local from Putty/Power Shell and enter the password. Dfault is raspberry but it's better to change it to N...
-
+	can ssh ssh a@pi.loc
 Step 4 graph the temperature
 	After collecting enough days in the logfile.txt run the graphing script in the software directory
