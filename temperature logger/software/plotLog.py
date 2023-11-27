@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
  
 
-device_file = ".." + '/runLog.txt'
-#device_file = ".." + '/results/runLogShort.txt'
+device_file = ".." + '/runLogOneWeek.txt'
+#device_file = ".." + '/runLogShort.txt'
 date_format = '%d %H:%M:%S'
 DEBUG=False
  
@@ -52,8 +52,8 @@ xVals, yVals=readTempAndTime()
 
 # plot
 plt.plot([],[])
-plt.plot([1,2,3,5,6], [1, 2, 3, 4, 6])
-#plt.plot(xVals,yVals)
+#plt.plot([1,2,3,5,6], [1, 2, 3, 4, 6]) # this is supposed to do a line graph
+plt.scatter(xVals,yVals)
 
 # beautify the x-labels
 plt.gcf().autofmt_xdate()
